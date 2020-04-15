@@ -1,0 +1,22 @@
+{
+  "name": "korona-map",
+  "version": "1.0.0",
+  "description": "my roject",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albanx/korona-map.git"
+  },
+  "author": "silvabani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albanx/korona-map/issues"
+  },
+  "homepage": "https://github.com/albanx/korona-map#readme",
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}
